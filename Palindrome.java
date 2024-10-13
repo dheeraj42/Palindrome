@@ -16,6 +16,7 @@ class Palindrome {
 	public static void main(String[] args)
 	{
 		int n = 123464321;
+        System.out.println("this is changed ");
 		int reverseN = reversNumber(n);
 		System.out.println("Reverse of n = " + reverseN);
 
